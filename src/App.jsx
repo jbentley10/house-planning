@@ -151,7 +151,7 @@ const themes = {
 };
 
 export default function App() {
-  const [checked, setChecked] = useState({});
+  const [checked, setChecked] = useState({ "1a": true, "1e": true });
   const [openPhase, setOpenPhase] = useState(1);
   const [isDark, setIsDark] = useState(true);
 
