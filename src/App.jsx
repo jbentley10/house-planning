@@ -216,7 +216,7 @@ export default function App() {
           </div>
 
           <h1 style={{ fontSize: "clamp(28px, 5vw, 46px)", fontWeight: 400, margin: "0 0 8px", lineHeight: 1.15, color: tk.heading, transition: "color 0.35s" }}>
-            Your Portland Home<br />Purchase Roadmap
+            Your Home<br />Purchase Roadmap
           </h1>
           <p style={{ color: tk.textMuted, margin: "12px 0 32px", fontSize: 15, fontStyle: "italic", transition: "color 0.35s" }}>
             30–60 min/day · Close by Dec 31, 2026 · Move by mid-October
